@@ -1,4 +1,5 @@
 <footer class="main-footer">
+    
     <?php
     $copyYear = 2018;
     $curYear  = date('Y');

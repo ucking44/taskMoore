@@ -28,5 +28,4 @@ Route::group(['middleware' => ['auth']], function () {
     Route::resource('category', 'CategoryController');
     Route::resource('task', 'TaskController');
 
-
 });
